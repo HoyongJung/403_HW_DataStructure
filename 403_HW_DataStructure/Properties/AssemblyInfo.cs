@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("_403_HW_DataStructure")]
+[assembly: AssemblyTitle("IamGonnaMakeItWork")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("_403_HW_DataStructure")]
+[assembly: AssemblyProduct("IamGonnaMakeItWork")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5fcb4117-1e7d-48e3-a148-c4aeb77c9709")]
+[assembly: Guid("c3ca2784-66c0-41a7-9170-71e5520039fa")]
 
 // Version information for an assembly consists of the following four values:
 //
